@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# About Me<br><br>## Education<br><br>* **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering (Artificial Intelligence & Machine Learning)**<br>* **Seshadri Rao Gudlavalleru Engineering College (SRGEC)**, Gudlavalleru, Andhra Pradesh, India<br>* Currently pursuing undergraduate studies with a strong interest in Artificial Intelligence, Machine Learning, and Software Development.<br><br>## Technical Skills<br><br>### Programming Languages<br><br>* Python<br>* C<br>* HTML<br>* CSS<br>* JavaScript (Basic)<br><br>### AI & Machine Learning<br><br>* Artificial Intelligence Fundamentals<br>* Machine Learning Basics<br>* Deep Learning Fundamentals<br>* Generative AI<br>* Prompt Engineering<br>* Reinforcement Learning (Basic Understanding)<br><br>### Web Development<br><br>* Flask<br>* React (Basics)<br>* Spring Boot<br>* REST APIs<br><br>### Databases<br><br>* MySQL<br><br>### Data Analytics & Visualization<br><br>* Tableau<br>* Tableau Prep<br><br>### Tools & Technologies<br><br>* Git<br>* GitHub<br>* VS Code<br>* Postman<br>* Maven<br><br>## Projects<br><br>* Resume-to-Job Match Scorer<br>* Online Book Store Web Application<br>* Crop Recommendation System<br>* Road Accident Analysis<br>* Agricultural Equipment Rental System (E-FARM)<br>* Fake News Detection using Machine Learning<br><br>## Certifications<br><br>* IBM AI Fundamentals<br>* Deep Learning Foundations for AI and Generative AI (Udemy)<br>* Infosys Springboard – Generative AI for All<br>* Quantum Computing Fundamentals<br><br>## Areas of Interest<br><br>* Artificial Intelligence<br>* Machine Learning<br>* Deep Learning<br>* Generative AI<br>* Prompt Engineering<br>* Data Analytics<br>* Web Application Development<br>* Open Source Development<br>* Software Development<br>* Learning New Technologies<br><br>## Soft Skills<br><br>* Problem Solving<br>* Teamwork<br>* Quick Learner<br>* Communication<br>* Adaptability<br>* Continuous Learning<br><br>## Career Goal<br><br>I aim to build practical AI-powered applications, strengthen my software development skills, contribute to open-source projects, and continuously learn modern technologies to become a skilled AI/ML Engineer and Full-Stack Developer.<br>
 
-<!--
-**abhinayagandikota/abhinayagandikota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhinayagandikota&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhinayagandikota&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhinayagandikota&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=abhinayagandikota&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
